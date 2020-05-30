@@ -1,3 +1,4 @@
+#https://open.kattis.com/problems/froshweek2
 import collections
 
 n,m = [int(x) for x in input().split()]
